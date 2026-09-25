@@ -1,0 +1,10 @@
+{
+ "super_rmsd": 0.71,
+ "super_n": 143,
+ "xtal_rmsd": 0.85,
+ "xtal_n": 142,
+ "xtal_range": [
+  25,
+  166
+ ]
+}

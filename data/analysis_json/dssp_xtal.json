@@ -1,0 +1,476 @@
+{
+ "helix_rows": [
+  {
+   "segment": "H0",
+   "af3": "11\u201319",
+   "xray": "\u2013",
+   "nmr": "13\u201322"
+  },
+  {
+   "segment": "H1",
+   "af3": "25\u201341",
+   "xray": "25\u201341",
+   "nmr": "25\u201339"
+  },
+  {
+   "segment": "H1b",
+   "af3": "45\u201352",
+   "xray": "45\u201352",
+   "nmr": "46\u201350"
+  },
+  {
+   "segment": "H2",
+   "af3": "55\u201381",
+   "xray": "55\u201378",
+   "nmr": "55\u201378"
+  },
+  {
+   "segment": "H3",
+   "af3": "87\u2013124",
+   "xray": "87\u2013123",
+   "nmr": "90\u2013125"
+  },
+  {
+   "segment": "H4",
+   "af3": "131\u2013167",
+   "xray": "131\u2013162",
+   "nmr": "131\u2013162"
+  }
+ ],
+ "pos_rows": [
+  {
+   "pos": 16,
+   "res": "Q",
+   "helix": "H0",
+   "converted": true,
+   "af3": "H",
+   "xray": "\u2013",
+   "xray_conv": null,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 17,
+   "res": "Q",
+   "helix": "H0",
+   "converted": true,
+   "af3": "H",
+   "xray": "\u2013",
+   "xray_conv": null,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 18,
+   "res": "T",
+   "helix": "H0",
+   "converted": true,
+   "af3": "H",
+   "xray": "\u2013",
+   "xray_conv": null,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 21,
+   "res": "Q",
+   "helix": "\u2013",
+   "converted": false,
+   "af3": "C",
+   "xray": "\u2013",
+   "xray_conv": null,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": [
+    "2L7B"
+   ]
+  },
+  {
+   "pos": 24,
+   "res": "Q",
+   "helix": "\u2013",
+   "converted": false,
+   "af3": "C",
+   "xray": "C",
+   "xray_conv": false,
+   "nmr": "S (17/20)",
+   "nmr_conv": false,
+   "dissent": []
+  },
+  {
+   "pos": 36,
+   "res": "Y",
+   "helix": "H1",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 41,
+   "res": "Q",
+   "helix": "H1",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "C (10/20)",
+   "nmr_conv": false,
+   "dissent": [
+    "2L7B"
+   ]
+  },
+  {
+   "pos": 42,
+   "res": "T",
+   "helix": "\u2013",
+   "converted": false,
+   "af3": "T",
+   "xray": "T",
+   "xray_conv": false,
+   "nmr": "C (19/20)",
+   "nmr_conv": false,
+   "dissent": []
+  },
+  {
+   "pos": 46,
+   "res": "Q",
+   "helix": "H1b",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 48,
+   "res": "Q",
+   "helix": "H1b",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 55,
+   "res": "Q",
+   "helix": "H2",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 57,
+   "res": "T",
+   "helix": "H2",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 58,
+   "res": "Q",
+   "helix": "H2",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 67,
+   "res": "T",
+   "helix": "H2",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 74,
+   "res": "Y",
+   "helix": "H2",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 81,
+   "res": "Q",
+   "helix": "H2",
+   "converted": true,
+   "af3": "H",
+   "xray": "S",
+   "xray_conv": false,
+   "nmr": "S (13/20)",
+   "nmr_conv": false,
+   "dissent": [
+    "1LPE",
+    "2L7B"
+   ]
+  },
+  {
+   "pos": 83,
+   "res": "T",
+   "helix": "\u2013",
+   "converted": false,
+   "af3": "C",
+   "xray": "C",
+   "xray_conv": false,
+   "nmr": "C (15/20)",
+   "nmr_conv": false,
+   "dissent": []
+  },
+  {
+   "pos": 89,
+   "res": "T",
+   "helix": "H3",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "T (13/20)",
+   "nmr_conv": false,
+   "dissent": [
+    "2L7B"
+   ]
+  },
+  {
+   "pos": 98,
+   "res": "Q",
+   "helix": "H3",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 101,
+   "res": "Q",
+   "helix": "H3",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 117,
+   "res": "Q",
+   "helix": "H3",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 118,
+   "res": "Y",
+   "helix": "H3",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 123,
+   "res": "Q",
+   "helix": "H3",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "H (16/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 128,
+   "res": "Q",
+   "helix": "\u2013",
+   "converted": false,
+   "af3": "S",
+   "xray": "S",
+   "xray_conv": false,
+   "nmr": "C (18/20)",
+   "nmr_conv": false,
+   "dissent": []
+  },
+  {
+   "pos": 130,
+   "res": "T",
+   "helix": "\u2013",
+   "converted": false,
+   "af3": "C",
+   "xray": "C",
+   "xray_conv": false,
+   "nmr": "S (20/20)",
+   "nmr_conv": false,
+   "dissent": []
+  },
+  {
+   "pos": 156,
+   "res": "Q",
+   "helix": "H4",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "H (20/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 162,
+   "res": "Y",
+   "helix": "H4",
+   "converted": true,
+   "af3": "H",
+   "xray": "H",
+   "xray_conv": true,
+   "nmr": "H (14/20)",
+   "nmr_conv": true,
+   "dissent": []
+  },
+  {
+   "pos": 163,
+   "res": "Q",
+   "helix": "H4",
+   "converted": true,
+   "af3": "H",
+   "xray": "T",
+   "xray_conv": false,
+   "nmr": "T (18/20)",
+   "nmr_conv": false,
+   "dissent": [
+    "1LPE",
+    "2L7B"
+   ]
+  }
+ ],
+ "summary": {
+  "n_positions": 28,
+  "unanimous": 23,
+  "xray_agree": 22,
+  "xray_resolved": 24,
+  "nmr_agree": 23,
+  "both_dissent": [
+   81,
+   163
+  ],
+  "any_dissent": [
+   21,
+   41,
+   81,
+   89,
+   163
+  ]
+ },
+ "sources": {
+  "xray": {
+   "label": "X-ray, wild-type ApoE3 N-terminal domain",
+   "n_frames": 1,
+   "covers": [
+    23,
+    166
+   ],
+   "offset": 0,
+   "segments": [
+    [
+     25,
+     41
+    ],
+    [
+     45,
+     52
+    ],
+    [
+     55,
+     78
+    ],
+    [
+     87,
+     123
+    ],
+    [
+     131,
+     162
+    ]
+   ]
+  },
+  "nmr": {
+   "label": "Solution NMR, full-length ApoE3, 20 conformers",
+   "n_frames": 20,
+   "covers": [
+    11,
+    167
+   ],
+   "offset": 0,
+   "segments": [
+    [
+     13,
+     22
+    ],
+    [
+     25,
+     39
+    ],
+    [
+     46,
+     50
+    ],
+    [
+     55,
+     78
+    ],
+    [
+     90,
+     125
+    ],
+    [
+     131,
+     162
+    ]
+   ]
+  }
+ }
+}

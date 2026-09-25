@@ -1,0 +1,66 @@
+{
+ "rqty_bilayer": {
+  "POPC": {
+   "shell": 10.91,
+   "bulk": 102,
+   "enr": 1.45
+  },
+  "POPE": {
+   "shell": 8.23,
+   "bulk": 120,
+   "enr": 0.93
+  },
+  "POPS": {
+   "shell": 3.91,
+   "bulk": 36,
+   "enr": 1.47
+  },
+  "POPI": {
+   "shell": 0.0,
+   "bulk": 6,
+   "enr": 0.0
+  },
+  "PSM": {
+   "shell": 2.23,
+   "bulk": 24,
+   "enr": 1.25
+  },
+  "CHL1": {
+   "shell": 13.77,
+   "bulk": 240,
+   "enr": 0.78
+  }
+ },
+ "rqty_hmmm": {
+  "POPC": {
+   "shell": 13.78,
+   "bulk": 68,
+   "enr": 2.17
+  },
+  "POPE": {
+   "shell": 9.86,
+   "bulk": 80,
+   "enr": 1.32
+  },
+  "POPS": {
+   "shell": 2.84,
+   "bulk": 24,
+   "enr": 1.27
+  },
+  "POPI": {
+   "shell": 0.0,
+   "bulk": 4,
+   "enr": 0.0
+  },
+  "PSM": {
+   "shell": 1.76,
+   "bulk": 16,
+   "enr": 1.18
+  },
+  "CHL1": {
+   "shell": 4.6,
+   "bulk": 160,
+   "enr": 0.31
+  }
+ }
+}

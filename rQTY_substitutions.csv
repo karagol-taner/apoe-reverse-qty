@@ -1,0 +1,29 @@
+mature_position,native,rQTY,DSSP,helix,substituted,RSA_native_pct,RSA_rQTY_pct
+16,Q,L,H,H0,yes,22.3,34.3
+17,Q,L,H,H0,yes,18.4,32.7
+18,T,V,H,H0,yes,49.8,48.8
+21,Q,Q,C,none,no (non-helical),59.5,50.1
+24,Q,Q,C,none,no (non-helical),31.7,26.7
+36,Y,F,H,H1,yes,14.6,16.7
+41,Q,L,H,H1,yes,11.3,19.8
+42,T,T,T,none,no (non-helical),51.4,49.3
+46,Q,L,H,H1b,yes,46.0,45.0
+48,Q,L,H,H1b,yes,20.6,18.2
+55,Q,L,H,H2,yes,42.9,47.5
+57,T,V,H,H2,yes,12.8,10.7
+58,Q,L,H,H2,yes,51.5,56.1
+67,T,V,H,H2,yes,0.0,0.1
+74,Y,F,H,H2,yes,10.3,7.9
+81,Q,L,H,H2,yes,55.8,33.5
+83,T,T,C,none,no (non-helical),28.5,55.8
+89,T,V,H,H3,yes,31.0,34.0
+98,Q,L,H,H3,yes,50.4,47.6
+101,Q,L,H,H3,yes,10.8,5.4
+117,Q,L,H,H3,yes,42.3,48.7
+118,Y,F,H,H3,yes,1.9,2.2
+123,Q,L,H,H3,yes,55.4,51.9
+128,Q,Q,S,none,no (non-helical),54.2,54.9
+130,T,T,C,none,no (non-helical),14.2,25.9
+156,Q,L,H,H4,yes,18.2,25.9
+162,Y,F,H,H4,yes,5.0,1.1
+163,Q,L,H,H4,yes,26.3,25.6
