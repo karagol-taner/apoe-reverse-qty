@@ -1,4 +1,4 @@
-# A Reverse-QTY Variant of the ApoE N-Terminal Bundle Retains Its Fold in Neuronal Membrane Simulations
+# The Apolipoprotein E N-Terminal Bundle Rendered Membrane-Compatible by Reverse-QTY Conversion Without Loss of Fold
 
 A substitution rule that reads nothing but secondary structure can rewrite 22 surface positions of a four-helix bundle, raise its apolar surface by 59%, and leave the fold intact.
 
@@ -9,7 +9,7 @@ This repository contains the source code and datasets for the computational desi
 ## Citation
 If you use this framework in your research, please cite:
 
-* Karagöl, T., & Karagöl, A. (2026). A Reverse-QTY Variant of the ApoE N-Terminal Bundle Retains Its Fold in Neuronal Membrane Simulations.
+* Karagöl, T., & Karagöl, A. (2026). The Apolipoprotein E N-Terminal Bundle Rendered Membrane-Compatible by Reverse-QTY Conversion Without Loss of Fold.
 
 ## Usage
 
